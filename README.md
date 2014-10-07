@@ -1,6 +1,7 @@
 ###Intel's IoT Roadshow featuring Intel Galileo SDK
 ###2014 September 20-21
 ###Austin, TX
+###More information: https://software.intel.com/en-us/iot
 ####Project: "Hack-a-lock"
 
 ![Intel Galileo Gen 2 board](http://www.intel.com/content/dam/www/public/us/en/images/photography-consumer/16x9/galileo-board-gen2-tilt-16x9.jpg/_jcr_content/renditions/intel.web.480.270.jpg)
