@@ -11,6 +11,7 @@
 As part of Intel's Internet of Things (IoT) Roadshow showcasing Intel's IoT Developer Kit, which includes Intel Galileo Gen 2 board (similar to Arduino microcontroller), Grove starter kit (sensors and accessories), pre-loaded mini-SD card with software and dev environments, and more, my team developed a prototype to automatically determine the 3-number combination code to crack a Materlock combination lock.
 
 Here are two perspectives of the held-together prototype. Note the light detectors and the black disc with perforated holes to detect the dial position:
+
 ![Hack-a-lock 1](http://i.imgur.com/sqew8hTl.jpg)
 ![Hack-a-lock 2](http://i.imgur.com/jb1cKSXl.jpg)
 
